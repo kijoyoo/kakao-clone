@@ -1,3 +1,3 @@
 # kakao-clone
 
-hansol jjang
+hansol jjang kuikui
